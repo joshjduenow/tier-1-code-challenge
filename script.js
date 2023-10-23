@@ -1,5 +1,5 @@
 // 1. Start with the number 29 and set that equal to a variable named highScore;
-
+let highScore = 29;
 
 // 2. Make a new empty array called myScrabbleTiles.
 
