@@ -2,7 +2,8 @@
 let highScore = 29;
 
 // 2. Make a new empty array called myScrabbleTiles.
-let myScrabbleTiles = []
+let myScrabbleTiles = [];
+console.log(myScrabbleTiles);
 
 // 3. Put these 6 tile objects into myScrabbleTiles:
 /*
@@ -22,7 +23,7 @@ myScrabbleTiles.push(
   { tile: 'A', score: 1 },
 
 );
-
+console.log(myScrabbleTiles);
 
 // 4. Remove the last tile from myScrabbleTiles and save it in a variable named removedTile.
  let removedTile = myScrabbleTiles.pop();
