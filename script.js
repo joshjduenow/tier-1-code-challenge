@@ -46,7 +46,7 @@ function calculateScore(tiles) {
     
   }
   return totalScore;
-// wanted to find the other way to do this, but I was ahving trouble making it work
+// wanted to find the other way to do this, but I was having trouble making it work
 }
 
 // 7. Use the function above to get the total score for myScrabbleTiles and assign the value to a variable called "myScore".
