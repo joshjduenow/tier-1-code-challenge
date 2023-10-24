@@ -2,7 +2,7 @@
 let highScore = 29;
 
 // 2. Make a new empty array called myScrabbleTiles.
-
+let myScrabbleTiles = []
 
 // 3. Put these 6 tile objects into myScrabbleTiles:
 /*
