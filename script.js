@@ -34,7 +34,7 @@ myScrabbleTiles.push(
 myScrabbleTiles.push ( 
   { tile: 'F', score : 4 },
 );
-console.log(myScrabbleTiles);
+console.log("My Scrabble Tiles: ", myScrabbleTiles);
 
 // 6. Complete this function. It needs to be given an array of tile objects. The function will use a for-loop to add up and return the sum of all the scores for a given array of scrabble tiles.
 function calculateScore(tiles) {
@@ -45,7 +45,7 @@ function calculateScore(tiles) {
     
   }
   return totalScore;
-
+// wanted to find the other way to do this, but I was ahving trouble making it work
 }
 
 // 7. Use the function above to get the total score for myScrabbleTiles and assign the value to a variable called "myScore".
